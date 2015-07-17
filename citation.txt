@@ -1,1 +1,1 @@
-Citation coming soon
+T. Helmuth and L. Spector. General Program Synthesis Benchmark Suite. In GECCO '15: Proceedings of the 17th annual conference on Genetic and evolutionary computation. July 2015. ACM.
